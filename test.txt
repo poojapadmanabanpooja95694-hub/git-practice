@@ -1,2 +1,6 @@
 This is feature 1 change
+ HEAD
 This is change from main branch
+
+This is change from conflict branch
+ conflict-branch
