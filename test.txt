@@ -1,7 +1,5 @@
 This is feature 1 change
-
 This is change from main branch
-
 This is change from conflict branch
 
 
