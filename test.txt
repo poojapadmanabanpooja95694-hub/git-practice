@@ -5,6 +5,7 @@ Line from conflict branch
 
 This is change from main branch
 This is change from conflict branch
+Profile feature added
 
 
 Main branch updated by teammate
