@@ -1,6 +1,7 @@
-This is feature 1 change
+This is conflict from branch
 This is change from main branch
 This is change from conflict branch
 
 
-Main branch updated by teammateThis is feature branch work
+Main branch updated by teammate
+This is feature branch work
