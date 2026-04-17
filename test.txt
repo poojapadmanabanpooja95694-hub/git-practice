@@ -1,4 +1,4 @@
-This is conflict from branch
+This is conflict from main
 This is change from main branch
 This is change from conflict branch
 
